@@ -3,6 +3,8 @@ import pic from "../../public/photo.avif";
 import { AiOutlineMenu } from "react-icons/ai";
 import { IoCloseSharp } from "react-icons/io5";
 import { Link } from "react-scroll";
+// import Navbar from './components/navbar.jsx';  // or navbar.js
+
 function Navbar() {
   const [menu, setMenu] = useState(false);
   const navItems = [
