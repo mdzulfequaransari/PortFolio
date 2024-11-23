@@ -1,7 +1,7 @@
 import React from "react";
 
-// import pic from "../../public/photo.avif";
-import pics from "../../public/Photos.jpg";
+import pic from "../../public/photo.avif";
+// import pics from "../../public/Photos.jpg";
 // import pic form "../../public/Photo.jpg";
 
 
@@ -89,7 +89,7 @@ function Home() {
           </div>
           <div className="md:w-1/2 md:ml-48 md:mt-14 mt-8 order-1">
             <img
-              src={pics}
+              src={pic}
               className="rounded-full md:w-[400px] md:h-[400px]"
               alt=""
             />

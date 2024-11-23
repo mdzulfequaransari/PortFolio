@@ -17,10 +17,10 @@ function App() {
     <Home/>
     <About/>
   <Portfolio/>
-  {/* <Experiance/> */}
+  <Experiance/>
   <Contact/>
   <Footer/>
-  <Demo/>
+  {/* <Demo/> */}
   
   </div>
   <Toaster/>
