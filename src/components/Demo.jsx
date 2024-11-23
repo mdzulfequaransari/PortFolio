@@ -79,7 +79,7 @@ const FormExample = () => {
         </div>
         <div>
           <label>
-            Email:
+            Email is require:
             <input  className=" pt-4 mt-4 shadow rounded-lg appearance-none border  py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
               type="email"
               name="email"
