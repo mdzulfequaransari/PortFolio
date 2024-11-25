@@ -40,7 +40,7 @@ function Navbar() {
             <h1 className="font-semibold text-xl cursor-pointer">
               Md Zulfequar Ansar<span className="text-green-500 text-2xl">i</span> 
               {/* with Azmari<span className="text-green-500 text-2xl">i</span> */}
-              <p className="text-sm">Hobbies Kabar me jaldi jana mera hobbies hai main roushni hu</p>
+              <p className="text-sm">Web Devloper</p>
             </h1>
           </div>
           {/* desktop navbar */}
